@@ -1,3 +1,3 @@
-Building and thinking about systems at Cash App.
+Building and thinking about systems at Block.
 
 https://www.jmandel.io/
